@@ -1,0 +1,20 @@
+{
+    "name": "silvestra/taggingJS",
+    "homepage": "https://github.com/sniperwolf/taggingJS",
+    "type": "component",
+    "license": "MIT",
+    "require": {
+        "robloach/component-installer": "*",
+        "components/jquery": ">=1.9.1"
+    },
+    "extra": {
+        "component": {
+            "scripts": [
+                "tagging.js"
+            ],
+            "files": [
+                "tagging.min.js"
+            ]
+        }
+    }
+}
